@@ -1,0 +1,23 @@
+{
+  "name": "makria",
+  "version": "0.1.0",
+  "description": "Grikkian security module for node.js ",
+  "main": "makria.js",
+  "scripts": {
+    "test": "node test",
+    "start": "node makria"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Grikke/makria.git"
+  },
+  "author": "grikke",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Grikke/makria/issues"
+  },
+  "homepage": "https://github.com/Grikke/makria#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
